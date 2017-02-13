@@ -1,0 +1,12 @@
+<div class="new-message-component">
+  <div class="field">
+    <label for="user">Username</label>
+    <input id="user" type="text" [(ngModel)]="user">
+  </div>
+  <div class="field">
+    <label for="message">Message</label>
+    <input id="message" [(ngModel)]="message">
+  </div>
+
+  <button (click)="newMessage(message, user)" class="btn btn-default">Send</button>
+</div>

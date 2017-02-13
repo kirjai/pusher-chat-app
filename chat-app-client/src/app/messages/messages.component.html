@@ -1,0 +1,9 @@
+<div class="messages-component">
+  <div class="messages">
+    <div class="message" *ngFor="let message of messages">
+      <b>{{ message.user }}</b>: {{ message.text }}
+    </div>
+  </div>
+
+  <app-new-message></app-new-message>
+</div>

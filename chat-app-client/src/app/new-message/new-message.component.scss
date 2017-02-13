@@ -1,0 +1,21 @@
+.field {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+#message {
+  width: 300px;
+}
+
+input {
+  padding: 5px;
+  font-size: 12px;
+}
+
+button {
+  padding: 8px;
+  background-color: white;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  cursor: pointer;
+}

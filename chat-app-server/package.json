@@ -1,0 +1,13 @@
+{
+  "name": "chat-app-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "pusher": "^1.5.1"
+  }
+}
