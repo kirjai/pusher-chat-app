@@ -1,6 +1,6 @@
-# pusher-chat-app
+# Build a chat app with Angular
 
-This is an example application that demonstrates how to write a simple chat application with [Pusher](https://pusher.com/), Angular and Node. For more information, you can check out a more detailed [blog post on the topic](https://blog.pusher.com/), which uses this code as an example.
+This is an example application that demonstrates how to write a simple chat application with [Pusher](https://pusher.com/), Angular and Node. For more information, you can check out a more detailed [blog post on the topic](https://pusher.com/tutorials/chat-angular/), which uses this code as an example.
 
 This repo contains two applications. A server Node application `chat-app-server` and an front end Angular application `chat-app-client`.
 
